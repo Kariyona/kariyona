@@ -2,9 +2,7 @@
 - 🔭 I’m currently working on past projects
 - 🤔 I’m looking for recommendations/help with getting a job
 - 📫 How to reach me: wyona.dev@gmail.com
-- Language and Tools:
-React  Redux   CSS  HTML  JavaScript  SQL  NodeJS  Git
-
+- Language and Tools: Javascript, Python, React, Redux, Node.js, Express, Flask, SQLAlchemy, Sequelize, and PostgreSQL.
 <!--
 **Kariyona/kariyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
