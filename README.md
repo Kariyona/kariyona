@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on past projects
-- 🤔 I’m looking for recommendations/help with getting a job
+- 🤔 I’m looking for recommendations/help with getting my career started
 - 📫 How to reach me: wyona.dev@gmail.com
 - Language and Tools: Javascript, Python, React, Redux, Node.js, Express, Flask, SQLAlchemy, Sequelize, and PostgreSQL.
 <!--
